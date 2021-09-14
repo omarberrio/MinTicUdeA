@@ -1,5 +1,9 @@
-#Este es el repositorio para los talleres
+# Este es el repositorio para los talleres
 
-##GitJavaScript
+## GitJavaScript
 Realizando una edit
-###GitAndroid
+Esto se debe actualizar
+### GitAndroid
+
+
+
